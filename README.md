@@ -7,7 +7,7 @@ This project was completed as a practical classroom challenge assigned by my tea
 ## 📸 Project Demonstration
 
 <!-- Replace the path below with your uploaded project image -->
-![AVR Matrix Keypad and Display Interfacing](images/project-demo.jpg)
+![AVR Matrix Keypad and Display Interfacing](https://github.com/sarthakboy/AVR-Matrix-Keypad-7-Segment-Display-LCD-Interfacing/blob/main/Screenshot%202026-10-22%20094618.png)
 
 🔗 **LinkedIn Project Post:** [View my project demonstration](https://www.linkedin.com/feed/update/urn:li:activity:7518886632364793856/)
 
@@ -88,5 +88,5 @@ Aspiring Embedded Software / Firmware Engineer
 
 Skills: Embedded C · AVR Microcontrollers · GPIO · LCD Interfacing · Peripheral Integration
 
-- LinkedIn: [View my profile](YOUR_LINKEDIN_PROFILE_URL)
-- Project Post: [View the project on LinkedIn](YOUR_LINKEDIN_POST_URL)
+- LinkedIn: [View my profile](www.linkedin.com/in/sarthak-pandey-981551428)
+- Project Post: [View the project on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7518886632364793856/)
