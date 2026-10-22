@@ -88,5 +88,5 @@ Aspiring Embedded Software / Firmware Engineer
 
 Skills: Embedded C · AVR Microcontrollers · GPIO · LCD Interfacing · Peripheral Integration
 
-- LinkedIn: [View my profile](www.linkedin.com/in/sarthak-pandey-981551428)
+- LinkedIn: [View my profile](https://www.linkedin.com/in/sarthak-pandey-981551428/)
 - Project Post: [View the project on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7518886632364793856/)
